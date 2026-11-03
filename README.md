@@ -8,22 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/voidsipp/SecTool">Featured project</a> &nbsp;·&nbsp;
   <a href="https://x.com/voidsip">X / @voidsip</a> &nbsp;·&nbsp;
   <b>Discord:</b> <code>voidsip</code>
 </p>
-
-<br />
-
-### Featured project · [SecTool](https://github.com/voidsipp/SecTool)
-
-A security-alert pipeline for UniFi / UDM Pro. Collects alerts, correlates surrounding logs, and delivers AI-assisted summaries to Discord.
-
-- **Detect** IDS/IPS and firewall events from syslog.
-- **Understand** alerts with related log context and AI-assisted analysis.
-- **Notify** with severity-colored Discord messages and deduplication.
-
-[Explore SecTool →](https://github.com/voidsipp/SecTool)
 
 ---
 
