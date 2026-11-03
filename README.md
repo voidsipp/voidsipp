@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Cybersecurity analyst &amp; developer · Houston area</b><br />
+  <b>Cybersecurity &amp; development · Houston area</b><br />
   Building tools for security monitoring and automation.
 </p>
 
